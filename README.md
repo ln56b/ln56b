@@ -3,7 +3,8 @@
 
  :herb:  I'm Hélène, a web developer passionate about the open-source mindset, coding community and continuous learning process.
 
-
+ ---
+ 
 ###  In progress  :hourglass_flowing_sand:
 
 
@@ -11,6 +12,7 @@
 
  :eyes:  Next on my learning wishlist is the Python / Django combination.
  
+ ---
  
 ###  More about my profile :mag:
 
