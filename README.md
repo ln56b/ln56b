@@ -7,7 +7,7 @@
 ###  In progress  :hourglass_flowing_sand:
 
 
- :bicyclist:  I’m currently developing a full-stack CRUD app in ReactJS / Node.js about my Favourite Cycling Rides.
+ :bicyclist:  I’m currently developing a full-stack app about my Favourite Cycling Rides using React / Node.js / MySQL / Sequelize ORM and Multer.
 
  :eyes:  Next on my learning wishlist is the Python / Django combination.
  
