@@ -16,6 +16,6 @@
  
 ###  More about my profile :mag:
 
-[LinkedIn] (https://www.linkedin.com/in/hbaudrand/)
+[LinkedIn](https://www.linkedin.com/in/hbaudrand/)
 
 Want to know more about my profile pic ? :bento: Feel free to contact me ! :hotsprings:
