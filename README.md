@@ -8,7 +8,7 @@
 ###  In progress  :hourglass_flowing_sand:
 
 
- :eyes:  I’m currently developing in PHP and MongoDB for a 3-month mission :eyes:
+ :eyes:  I’m currently developing a full-stack shopping-list with Angular, NestJS and MongoDB :eyes:
  
  ---
  
