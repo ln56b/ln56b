@@ -5,13 +5,6 @@
 
  ---
  
-###  In progress  :hourglass_flowing_sand:
-
-
- :eyes:  I’m currently developing a full-stack shopping-list with Angular, NestJS and MongoDB :eyes:
- 
- ---
- 
 ###  More about my profile :mag:
 
 [LinkedIn](https://www.linkedin.com/in/hbaudrand/)
